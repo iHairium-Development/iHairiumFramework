@@ -22,27 +22,28 @@ extension UIKit.UIViewController : UIKit.UIViewControllerTransitioningDelegate {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func presentationController(forPresented presented: UIKit.UIViewController, presenting: UIKit.UIViewController?, source: UIKit.UIViewController) -> UIKit.UIPresentationController?
 }
 #endif
-public enum IHLanguage {
+@objc public enum IHLanguage : Swift.Int {
   case system
   case en
   case de
   case it
   case es
   case ru
-  public static func == (a: iHairiumSDK.IHLanguage, b: iHairiumSDK.IHLanguage) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers final public class IHConfiguration : ObjectiveC.NSObject {
-  public static let shared: iHairiumSDK.IHConfiguration
-  final public var customColors: iHairiumSDK.IHCustomColors
-  final public func setupLanguage(language: iHairiumSDK.IHLanguage = .system)
+public typealias iHSDKConfig = iHairiumSDK.IHConfiguration
+@_inheritsConvenienceInitializers @objc final public class IHConfiguration : ObjectiveC.NSObject {
+  @objc public static let shared: iHairiumSDK.IHConfiguration
+  @objc final public var customColors: iHairiumSDK.IHCustomColors
+  @objc final public func setupLanguage(language: iHairiumSDK.IHLanguage = .system)
   @objc override dynamic public init()
   @objc deinit
 }
-@_hasMissingDesignatedInitializers final public class IHCustomColors {
+@_inheritsConvenienceInitializers @objc final public class IHCustomColors : ObjectiveC.NSObject {
   final public var backgroundColor: UIKit.UIColor?
   final public var backgroundGradientColorStart: UIKit.UIColor?
   final public var backgroundGradientColorEnd: UIKit.UIColor?
@@ -56,15 +57,18 @@ public enum IHLanguage {
   final public var navBarTextColor: UIKit.UIColor?
   final public var navBarSliderGradientColorStart: UIKit.UIColor?
   final public var navBarSliderGradientColorEnd: UIKit.UIColor?
+  @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers final public class IHManager : ObjectiveC.NSObject {
-  public static let shared: iHairiumSDK.IHManager
-  final public func setApiKey(apiKey: Swift.String)
-  final public func startDiagnostic(userId: Swift.String, parentController: UIKit.UIViewController)
+public typealias iHSDK = iHairiumSDK.IHManager
+@_inheritsConvenienceInitializers @objc final public class IHManager : ObjectiveC.NSObject {
+  @objc public static let shared: iHairiumSDK.IHManager
+  @objc final public func setApiKey(apiKey: Swift.String)
+  @objc final public func startDiagnostic(userId: Swift.String, parentController: UIKit.UIViewController)
   final public func showDiagnosticResults(userId: Swift.String, parentController: UIKit.UIViewController)
   @objc override dynamic public init()
   @objc deinit
 }
 extension iHairiumSDK.IHLanguage : Swift.Equatable {}
 extension iHairiumSDK.IHLanguage : Swift.Hashable {}
+extension iHairiumSDK.IHLanguage : Swift.RawRepresentable {}

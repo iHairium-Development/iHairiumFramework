@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		qMzAzXxrNSBwwBkkRkOaR++LPdU=
+		DJ9KeZ7M5jsgA3O1jCHmvTMJMbM=
 		</data>
 		<key>Headers/iHairiumSDK.h</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ESslYFQhA+LTN21T6B3qHPa+Ht8=
+		chfkz4253HNLyfGE3oBy9AKLhIA=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		66TZGEMRzqA+/GdxqeV3q4x4l/s=
+		qQGWZ7J5ZPlU//DlgrNV/P5jRI0=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		66TZGEMRzqA+/GdxqeV3q4x4l/s=
+		qQGWZ7J5ZPlU//DlgrNV/P5jRI0=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jJiDymEMya9fZ1ZFI+EBheFjv7g=
+		WnSL2e8utHQkPY7gAvY07PV/7dU=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ESslYFQhA+LTN21T6B3qHPa+Ht8=
+		chfkz4253HNLyfGE3oBy9AKLhIA=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IeIoXkAo4eSv6ESkVfvqk9drQEs=
+		7KsH/M0eVcGjmr5Wsd+C94S03tc=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IeIoXkAo4eSv6ESkVfvqk9drQEs=
+		7KsH/M0eVcGjmr5Wsd+C94S03tc=
 		</data>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rUGf5gUhxpwa1lFms9J+fI9EvM0=
+		zrQRsSIaOsqjqWJ4b8hDZIanpW8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -196,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iqq2UuUWOfhSSecwtgV+/kEauAKpjJT6EgyD+Sfehug=
+			Fs5RjHOUK/eNpj9u7BtTwmtpfiI/rSs9EF0krH2jDSk=
 			</data>
 		</dict>
 		<key>Headers/iHairiumSDK.h</key>
@@ -350,14 +350,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+ANcvY/dJionvvRdHs8C2C/12zi3phRbZ4O+KT6YDy0=
+			WKyShVGvJ83CXvsywYnEsaH7IdB9STn2Lkle3HEXdB8=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wmbgMn1edmPIA+T8qKLlGPyMcthmRiCDHjpN71ksZDQ=
+			egn0vI/8C6cKFYSlPkDLEUIqoAnT/+bvVE1goBtQkbY=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -371,28 +371,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wmbgMn1edmPIA+T8qKLlGPyMcthmRiCDHjpN71ksZDQ=
+			egn0vI/8C6cKFYSlPkDLEUIqoAnT/+bvVE1goBtQkbY=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6nkZPTtT6FKARQ9MXAGCVUtOAaI+fXSv7tVnuWF9HQ=
+			weJppSqfMSiP4INX2LNyNCSje5sTfEF9foi7Vczxay0=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+ANcvY/dJionvvRdHs8C2C/12zi3phRbZ4O+KT6YDy0=
+			WKyShVGvJ83CXvsywYnEsaH7IdB9STn2Lkle3HEXdB8=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AuG3AaVspbgqjtSaczGkO4zizS+c8vkgGEwBo5IvS/I=
+			/mHwMduBTUqEPBeTE678ki5NhNjBSZBA+OZ8gNp9ROY=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -406,14 +406,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AuG3AaVspbgqjtSaczGkO4zizS+c8vkgGEwBo5IvS/I=
+			/mHwMduBTUqEPBeTE678ki5NhNjBSZBA+OZ8gNp9ROY=
 			</data>
 		</dict>
 		<key>Modules/iHairiumSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qD1+wwR4grRIIyBMd4V0jjzd9JyY8cjZtxiWXp9xZZQ=
+			H2+LyWW1bAfKsnKUcjdcoC7pXHQ5z01A2zh0NBk17xQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
