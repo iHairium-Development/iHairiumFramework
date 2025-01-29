@@ -1,0 +1,4926 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "iHairiumSDK",
+    "printedName": "iHairiumSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IHLanguage",
+        "printedName": "IHLanguage",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "system",
+            "printedName": "system",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO6systemyA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO6systemyA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "en",
+            "printedName": "en",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO2enyA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2enyA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "de",
+            "printedName": "de",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO2deyA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2deyA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "it",
+            "printedName": "it",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO2ityA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2ityA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "es",
+            "printedName": "es",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO2esyA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2esyA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "ru",
+            "printedName": "ru",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(iHairiumSDK.IHLanguage.Type) -> iHairiumSDK.IHLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHLanguage",
+                    "printedName": "iHairiumSDK.IHLanguage",
+                    "usr": "s:11iHairiumSDK10IHLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "iHairiumSDK.IHLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "IHLanguage",
+                        "printedName": "iHairiumSDK.IHLanguage",
+                        "usr": "s:11iHairiumSDK10IHLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11iHairiumSDK10IHLanguageO2ruyA2CmF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2ruyA2CmF",
+            "moduleName": "iHairiumSDK"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IHLanguage",
+                "printedName": "iHairiumSDK.IHLanguage",
+                "usr": "s:11iHairiumSDK10IHLanguageO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IHLanguage",
+                "printedName": "iHairiumSDK.IHLanguage",
+                "usr": "s:11iHairiumSDK10IHLanguageO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK10IHLanguageO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO2eeoiySbAC_ACtFZ",
+            "moduleName": "iHairiumSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK10IHLanguageO9hashValueSivp",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO9hashValueSivp",
+            "moduleName": "iHairiumSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK10IHLanguageO9hashValueSivg",
+                "mangledName": "$s11iHairiumSDK10IHLanguageO9hashValueSivg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK10IHLanguageO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s11iHairiumSDK10IHLanguageO4hash4intoys6HasherVz_tF",
+            "moduleName": "iHairiumSDK",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11iHairiumSDK10IHLanguageO",
+        "mangledName": "$s11iHairiumSDK10IHLanguageO",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IHConfiguration",
+        "printedName": "IHConfiguration",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IHConfiguration",
+                "printedName": "iHairiumSDK.IHConfiguration",
+                "usr": "c:@M@iHairiumSDK@objc(cs)IHConfiguration"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK15IHConfigurationC6sharedACvpZ",
+            "mangledName": "$s11iHairiumSDK15IHConfigurationC6sharedACvpZ",
+            "moduleName": "iHairiumSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHConfiguration",
+                    "printedName": "iHairiumSDK.IHConfiguration",
+                    "usr": "c:@M@iHairiumSDK@objc(cs)IHConfiguration"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK15IHConfigurationC6sharedACvgZ",
+                "mangledName": "$s11iHairiumSDK15IHConfigurationC6sharedACvgZ",
+                "moduleName": "iHairiumSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "customColors",
+            "printedName": "customColors",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IHCustomColors",
+                "printedName": "iHairiumSDK.IHCustomColors",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvp",
+            "mangledName": "$s11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHCustomColors",
+                    "printedName": "iHairiumSDK.IHCustomColors",
+                    "usr": "s:11iHairiumSDK14IHCustomColorsC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvg",
+                "mangledName": "$s11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHCustomColors",
+                    "printedName": "iHairiumSDK.IHCustomColors",
+                    "usr": "s:11iHairiumSDK14IHCustomColorsC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvs",
+                "mangledName": "$s11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0Cvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0CvM",
+                "mangledName": "$s11iHairiumSDK15IHConfigurationC12customColorsAA08IHCustomE0CvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setupLanguage",
+            "printedName": "setupLanguage(language:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IHLanguage",
+                "printedName": "iHairiumSDK.IHLanguage",
+                "hasDefaultArg": true,
+                "usr": "s:11iHairiumSDK10IHLanguageO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK15IHConfigurationC13setupLanguage8languageyAA10IHLanguageO_tF",
+            "mangledName": "$s11iHairiumSDK15IHConfigurationC13setupLanguage8languageyAA10IHLanguageO_tF",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IHConfiguration",
+                "printedName": "iHairiumSDK.IHConfiguration",
+                "usr": "c:@M@iHairiumSDK@objc(cs)IHConfiguration"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@iHairiumSDK@objc(cs)IHConfiguration(im)init",
+            "mangledName": "$s11iHairiumSDK15IHConfigurationCACycfc",
+            "moduleName": "iHairiumSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@iHairiumSDK@objc(cs)IHConfiguration",
+        "mangledName": "$s11iHairiumSDK15IHConfigurationC",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "AccessControl",
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IHCustomColors",
+        "printedName": "IHCustomColors",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "backgroundColor",
+            "printedName": "backgroundColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15backgroundColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "backgroundGradientColorStart",
+            "printedName": "backgroundGradientColorStart",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28backgroundGradientColorStartSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "backgroundGradientColorEnd",
+            "printedName": "backgroundGradientColorEnd",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26backgroundGradientColorEndSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "buttonTextColor",
+            "printedName": "buttonTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15buttonTextColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "buttonBackgroundColor",
+            "printedName": "buttonBackgroundColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC21buttonBackgroundColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "textColor",
+            "printedName": "textColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC9textColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "secondTextColor",
+            "printedName": "secondTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15secondTextColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "thirdTextColor",
+            "printedName": "thirdTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC14thirdTextColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tableSeparatorColor",
+            "printedName": "tableSeparatorColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC19tableSeparatorColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "tableTextAndSelectionColor",
+            "printedName": "tableTextAndSelectionColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC26tableTextAndSelectionColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navBarTextColor",
+            "printedName": "navBarTextColor",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC15navBarTextColorSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navBarSliderGradientColorStart",
+            "printedName": "navBarSliderGradientColorStart",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC30navBarSliderGradientColorStartSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "navBarSliderGradientColorEnd",
+            "printedName": "navBarSliderGradientColorEnd",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIColor?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIColor",
+                    "printedName": "UIKit.UIColor",
+                    "usr": "c:objc(cs)UIColor"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvp",
+            "mangledName": "$s11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvp",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvg",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvg",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIColor?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIColor",
+                        "printedName": "UIKit.UIColor",
+                        "usr": "c:objc(cs)UIColor"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvs",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvs",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvM",
+                "mangledName": "$s11iHairiumSDK14IHCustomColorsC28navBarSliderGradientColorEndSo7UIColorCSgvM",
+                "moduleName": "iHairiumSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11iHairiumSDK14IHCustomColorsC",
+        "mangledName": "$s11iHairiumSDK14IHCustomColorsC",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhotosUI",
+        "printedName": "PhotosUI",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IHManager",
+        "printedName": "IHManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IHManager",
+                "printedName": "iHairiumSDK.IHManager",
+                "usr": "c:@M@iHairiumSDK@objc(cs)IHManager"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11iHairiumSDK9IHManagerC6sharedACvpZ",
+            "mangledName": "$s11iHairiumSDK9IHManagerC6sharedACvpZ",
+            "moduleName": "iHairiumSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IHManager",
+                    "printedName": "iHairiumSDK.IHManager",
+                    "usr": "c:@M@iHairiumSDK@objc(cs)IHManager"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11iHairiumSDK9IHManagerC6sharedACvgZ",
+                "mangledName": "$s11iHairiumSDK9IHManagerC6sharedACvgZ",
+                "moduleName": "iHairiumSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setApiKey",
+            "printedName": "setApiKey(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK9IHManagerC9setApiKey03apiF0ySS_tF",
+            "mangledName": "$s11iHairiumSDK9IHManagerC9setApiKey03apiF0ySS_tF",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "startDiagnostic",
+            "printedName": "startDiagnostic(userId:parentController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK9IHManagerC15startDiagnostic6userId16parentControllerySS_So06UIViewI0CtF",
+            "mangledName": "$s11iHairiumSDK9IHManagerC15startDiagnostic6userId16parentControllerySS_So06UIViewI0CtF",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showDiagnosticResults",
+            "printedName": "showDiagnosticResults(userId:parentController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11iHairiumSDK9IHManagerC21showDiagnosticResults6userId16parentControllerySS_So06UIViewJ0CtF",
+            "mangledName": "$s11iHairiumSDK9IHManagerC21showDiagnosticResults6userId16parentControllerySS_So06UIViewJ0CtF",
+            "moduleName": "iHairiumSDK",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "IHManager",
+                "printedName": "iHairiumSDK.IHManager",
+                "usr": "c:@M@iHairiumSDK@objc(cs)IHManager"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@iHairiumSDK@objc(cs)IHManager(im)init",
+            "mangledName": "$s11iHairiumSDK9IHManagerCACycfc",
+            "moduleName": "iHairiumSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@iHairiumSDK@objc(cs)IHManager",
+        "mangledName": "$s11iHairiumSDK9IHManagerC",
+        "moduleName": "iHairiumSDK",
+        "declAttributes": [
+          "AccessControl",
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "iHairiumSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIViewController",
+        "printedName": "UIViewController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "presentationController",
+            "printedName": "presentationController(forPresented:presenting:source:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIPresentationController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIPresentationController",
+                    "printedName": "UIKit.UIPresentationController",
+                    "usr": "c:objc(cs)UIPresentationController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@iHairiumSDK@@objc(cs)UIViewController(im)presentationControllerForPresentedViewController:presentingViewController:sourceViewController:",
+            "mangledName": "$sSo16UIViewControllerC11iHairiumSDKE012presentationB012forPresented10presenting6sourceSo014UIPresentationB0CSgAB_ABSgABtF",
+            "moduleName": "iHairiumSDK",
+            "objc_name": "presentationControllerForPresentedViewController:presentingViewController:sourceViewController:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIViewController",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIViewController",
+        "declAttributes": [
+          "Preconcurrency",
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 896,
+      "length": 12,
+      "value": "\"created_at\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 957,
+      "length": 20,
+      "value": "\"image_thumb_base64\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1008,
+      "length": 18,
+      "value": "\"is_results_ready\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1077,
+      "length": 12,
+      "value": "\"updated_at\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1116,
+      "length": 13,
+      "value": "\"user_viewed\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1164,
+      "length": 21,
+      "value": "\"diagnostic_progress\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1387,
+      "length": 20,
+      "value": "\"current_step_count\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnisticsPage.swift",
+      "kind": "StringLiteral",
+      "offset": 1439,
+      "length": 19,
+      "value": "\"total_steps_count\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 22,
+      "value": "\"complete_diagnostics\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 786,
+      "length": 14,
+      "value": "\"current_step\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 834,
+      "length": 21,
+      "value": "\"current_step_answer\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 890,
+      "length": 23,
+      "value": "\"current_step_in_batch\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 942,
+      "length": 15,
+      "value": "\"diagnostic_id\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 991,
+      "length": 20,
+      "value": "\"diagnostic_version\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1036,
+      "length": 11,
+      "value": "\"next_step\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1076,
+      "length": 15,
+      "value": "\"previous_step\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1150,
+      "length": 22,
+      "value": "\"total_steps_in_batch\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1207,
+      "length": 22,
+      "value": "\"with_individual_plan\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1865,
+      "length": 12,
+      "value": "\"event_name\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1912,
+      "length": 24,
+      "value": "\"is_first_step_in_batch\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 1963,
+      "length": 14,
+      "value": "\"is_last_step\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2011,
+      "length": 23,
+      "value": "\"is_last_step_in_batch\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 18,
+      "value": "\"possible_to_skip\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2113,
+      "length": 17,
+      "value": "\"step_batch_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2158,
+      "length": 14,
+      "value": "\"step_message\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2202,
+      "length": 16,
+      "value": "\"step_questions\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2243,
+      "length": 11,
+      "value": "\"step_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2279,
+      "length": 11,
+      "value": "\"step_uuid\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2327,
+      "length": 25,
+      "value": "\"step_with_photos_quests\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2559,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2631,
+      "length": 11,
+      "value": "\"image_url\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 2687,
+      "length": 12,
+      "value": "\"own_answer\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3185,
+      "length": 24,
+      "value": "\"additional_answers_map\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3239,
+      "length": 16,
+      "value": "\"answer_indexes\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3282,
+      "length": 13,
+      "value": "\"step_answer\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3325,
+      "length": 17,
+      "value": "\"step_batch_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3367,
+      "length": 11,
+      "value": "\"step_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3403,
+      "length": 11,
+      "value": "\"step_uuid\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3591,
+      "length": 7,
+      "value": "\"phone\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3620,
+      "length": 7,
+      "value": "\"email\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3791,
+      "length": 17,
+      "value": "\"step_batch_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnostic.swift",
+      "kind": "StringLiteral",
+      "offset": 3833,
+      "length": 11,
+      "value": "\"step_uuid\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 710,
+      "length": 16,
+      "value": "\"allergies_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 756,
+      "length": 16,
+      "value": "\"complains_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 799,
+      "length": 13,
+      "value": "\"habits_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 843,
+      "length": 18,
+      "value": "\"hairs_exams_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 890,
+      "length": 15,
+      "value": "\"heredity_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 942,
+      "length": 23,
+      "value": "\"preliminary_diagnoses\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 998,
+      "length": 19,
+      "value": "\"prescription_info\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 1077,
+      "length": 18,
+      "value": "\"scalp_exams_list\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 18,
+      "value": "\"is_results_ready\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 1504,
+      "length": 22,
+      "value": "\"probability_percents\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 1763,
+      "length": 18,
+      "value": "\"description_info\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 1832,
+      "length": 15,
+      "value": "\"with_products\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2327,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2402,
+      "length": 14,
+      "value": "\"country_iso3\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2442,
+      "length": 12,
+      "value": "\"created_at\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2509,
+      "length": 16,
+      "value": "\"discount_price\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2558,
+      "length": 20,
+      "value": "\"has_discount_price\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2620,
+      "length": 12,
+      "value": "\"image_data\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2661,
+      "length": 16,
+      "value": "\"is_added_image\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2756,
+      "length": 20,
+      "value": "\"recommendation_ref\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHDiagnosticResult.swift",
+      "kind": "StringLiteral",
+      "offset": 2831,
+      "length": 12,
+      "value": "\"updated_at\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 423,
+      "length": 10,
+      "value": "\"file_key\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 463,
+      "length": 17,
+      "value": "\"file_media_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 11,
+      "value": "\"file_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 540,
+      "length": 10,
+      "value": "\"file_url\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 574,
+      "length": 10,
+      "value": "\"has_file\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Models\/IHPhoto.swift",
+      "kind": "StringLiteral",
+      "offset": 614,
+      "length": 16,
+      "value": "\"private_access\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 609,
+      "length": 24,
+      "value": "\"additional_answers_map\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 16,
+      "value": "\"answer_indexes\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 704,
+      "length": 11,
+      "value": "\"skip_step\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 749,
+      "length": 21,
+      "value": "\"step_overall_answer\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 798,
+      "length": 14,
+      "value": "\"step_request\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 837,
+      "length": 11,
+      "value": "\"step_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 871,
+      "length": 9,
+      "value": "\"user_id\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1514,
+      "length": 15,
+      "value": "\"diagnostic_id\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1559,
+      "length": 17,
+      "value": "\"step_batch_type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/API\/Requests\/Models\/IHDiagnisticStepRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1601,
+      "length": 11,
+      "value": "\"step_uuid\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "Array",
+      "offset": 432,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1145,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1184,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "StringLiteral",
+      "offset": 1245,
+      "length": 14,
+      "value": "\"Hair_Color_3\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "StringLiteral",
+      "offset": 1324,
+      "length": 15,
+      "value": "\"Hair_Color_11\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1401,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1751,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1903,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1988,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2015,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CarouselView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2076,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CouruselCollectionViewCell.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 29,
+      "value": "\"carousel_slide_default_Cell\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CouruselCollectionViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 649,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/Carousel\/CouruselCollectionViewCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/PresentationController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1035,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Custom Views\/PresentationController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1041,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Extensions\/String + Extention.swift",
+      "kind": "FloatLiteral",
+      "offset": 1605,
+      "length": 4,
+      "value": "15.0"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Extensions\/UIImage + Extention.swift",
+      "kind": "BooleanLiteral",
+      "offset": 690,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Extensions\/UIViewController + Extention.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2151,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Extensions\/UIViewController + Extention.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2180,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Monitor\/IHNetworkMonitor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 336,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Request\/IHRequest.swift",
+      "kind": "Dictionary",
+      "offset": 342,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Request\/IHRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 365,
+      "length": 66,
+      "value": "\"example.boundary.\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Request\/IHRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Request\/IHRequest.swift",
+      "kind": "Dictionary",
+      "offset": 691,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 173,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 205,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 288,
+      "length": 17,
+      "value": "\"Accept-Encoding\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 354,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPHeaderField.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 32,
+      "value": "\"multipart\/form-data; boundary=\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 156,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Network\/Utility\/IHHTTPMethod.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 165,
+      "length": 6,
+      "value": "\"MALE\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 8,
+      "value": "\"FEMALE\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 203,
+      "length": 10,
+      "value": "\"INTERSEX\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 10,
+      "value": "\"MALE_SEX\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 12,
+      "value": "\"FEMALE_SEX\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Classes\/Static Variable\/IHStaticVariable.swift",
+      "kind": "StringLiteral",
+      "offset": 339,
+      "length": 19,
+      "value": "\"NOT_SPECIFIED_SEX\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnistic Results\/All Diagnistics\/IHDiagnisticsViewController.swift",
+      "kind": "Array",
+      "offset": 741,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnistic Results\/All Diagnistics\/IHDiagnisticsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 807,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnistic Results\/Results\/IHDiagnosticResultViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 461,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnistic Results\/Results\/IHDiagnosticResultViewController.swift",
+      "kind": "Array",
+      "offset": 533,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Preparing Diagnostic\/IHPreparingDiagnosticViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 420,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 186,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 592,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 715,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "StringLiteral",
+      "offset": 909,
+      "length": 17,
+      "value": "\"recording.queue\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1845,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2651,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2677,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9168,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/CameraView\/CameraView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9194,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/IHCameraViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 841,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/IHCameraViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 870,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Diagnostic Process\/Questions\/Photo\/Camera\/IHCameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 985,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Controllers\/Popups\/IHBasePopUpViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 206,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Manager\/IHManager.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 19,
+      "value": "\"IH_UPDATE_CONTENT\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Desktop\/work_Sparkler\/hair_ios_sdk\/iHairiumSDK\/iHairiumSDK\/Manager\/IHManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1075,
+      "length": 9,
+      "value": "\"default\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 630,
+      "length": 14,
+      "value": "\"Hair_Color_1\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 778,
+      "length": 15,
+      "value": "\"Hair_Color_11\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 927,
+      "length": 15,
+      "value": "\"Hair_Color_12\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1076,
+      "length": 15,
+      "value": "\"Hair_Color_14\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1225,
+      "length": 15,
+      "value": "\"Hair_Color_18\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1374,
+      "length": 15,
+      "value": "\"Hair_Color_23\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1521,
+      "length": 14,
+      "value": "\"Hair_Color_3\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1667,
+      "length": 14,
+      "value": "\"Hair_Color_4\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1813,
+      "length": 14,
+      "value": "\"Hair_Color_5\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1959,
+      "length": 14,
+      "value": "\"Hair_Color_6\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2105,
+      "length": 14,
+      "value": "\"Hair_Color_7\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2251,
+      "length": 14,
+      "value": "\"Hair_Color_8\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2397,
+      "length": 14,
+      "value": "\"Hair_Color_9\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2551,
+      "length": 18,
+      "value": "\"Hair_Color_Black\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2707,
+      "length": 17,
+      "value": "\"Hair_Gradient_1\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2865,
+      "length": 19,
+      "value": "\"Hair_Gradient_1.1\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3034,
+      "length": 24,
+      "value": "\"Hair_Gradient_1.1_dark\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3205,
+      "length": 22,
+      "value": "\"Hair_Gradient_1_dark\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3365,
+      "length": 17,
+      "value": "\"Hair_Gradient_2\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3523,
+      "length": 19,
+      "value": "\"Hair_Gradient_2.1\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3692,
+      "length": 24,
+      "value": "\"Hair_Gradient_2.1_dark\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3863,
+      "length": 22,
+      "value": "\"Hair_Gradient_2_dark\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4118,
+      "length": 11,
+      "value": "\"arrowLeft\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4260,
+      "length": 13,
+      "value": "\"bottom_left\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4406,
+      "length": 14,
+      "value": "\"bottom_right\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4546,
+      "length": 10,
+      "value": "\"buttonBg\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4678,
+      "length": 8,
+      "value": "\"camera\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4826,
+      "length": 17,
+      "value": "\"checkmarkViolet\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4965,
+      "length": 8,
+      "value": "\"circle\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5104,
+      "length": 13,
+      "value": "\"circle_fill\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5252,
+      "length": 15,
+      "value": "\"circle_filled\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5396,
+      "length": 12,
+      "value": "\"close_dark\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5555,
+      "length": 22,
+      "value": "\"d_above_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5720,
+      "length": 20,
+      "value": "\"d_above_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5885,
+      "length": 21,
+      "value": "\"d_back_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6051,
+      "length": 21,
+      "value": "\"d_behind_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6215,
+      "length": 20,
+      "value": "\"d_front_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6385,
+      "length": 24,
+      "value": "\"d_front_smp_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6559,
+      "length": 24,
+      "value": "\"d_ft_area_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6737,
+      "length": 26,
+      "value": "\"d_ft_region_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6917,
+      "length": 26,
+      "value": "\"d_hair_ends_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7094,
+      "length": 24,
+      "value": "\"d_occipital_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7241,
+      "length": 9,
+      "value": "\"d_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7401,
+      "length": 24,
+      "value": "\"d_profile_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7568,
+      "length": 20,
+      "value": "\"d_scalp_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7742,
+      "length": 26,
+      "value": "\"d_top_close_female_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7914,
+      "length": 22,
+      "value": "\"d_top_smp_male_photo\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8073,
+      "length": 16,
+      "value": "\"default_avatar\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8218,
+      "length": 12,
+      "value": "\"flash_icon\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8356,
+      "length": 13,
+      "value": "\"focus_image\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8497,
+      "length": 11,
+      "value": "\"frameBack\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8638,
+      "length": 12,
+      "value": "\"frameFront\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8776,
+      "length": 10,
+      "value": "\"frameTop\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8917,
+      "length": 13,
+      "value": "\"no_internet\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9054,
+      "length": 9,
+      "value": "\"parting\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9192,
+      "length": 12,
+      "value": "\"right_icon\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9348,
+      "length": 20,
+      "value": "\"rotate_camera_icon\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9500,
+      "length": 13,
+      "value": "\"sliderTrack\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9642,
+      "length": 12,
+      "value": "\"slider_sun\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9804,
+      "length": 23,
+      "value": "\"start_diagnitics_icon\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 9965,
+      "length": 17,
+      "value": "\"take_photo_icon\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10105,
+      "length": 9,
+      "value": "\"top_eft\""
+    },
+    {
+      "filePath": "\/Users\/sergejbogatenko\/Library\/Developer\/Xcode\/DerivedData\/iHairiumSDK-fgiqsgixzjcoypgrahweiihexjfr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/iHairiumSDK\/IntermediateBuildFilesPath\/iHairiumSDK.build\/Release-iphonesimulator\/iHairiumSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 10241,
+      "length": 11,
+      "value": "\"top_right\""
+    }
+  ]
+}

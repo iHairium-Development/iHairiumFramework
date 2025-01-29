@@ -1,0 +1,6 @@
+framework module iHairiumSDK {
+  umbrella header "iHairiumSDK.h"
+  export *
+
+  module * { export * }
+}

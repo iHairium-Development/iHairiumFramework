@@ -1,0 +1,70 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios15.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name iHairiumSDK
+import AVFoundation
+import DeveloperToolsSupport
+import Foundation
+import Network
+import PhotosUI
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_exported import iHairiumSDK
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension UIKit.UIViewController : @retroactive UIKit.UIViewControllerTransitioningDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func presentationController(forPresented presented: UIKit.UIViewController, presenting: UIKit.UIViewController?, source: UIKit.UIViewController) -> UIKit.UIPresentationController?
+}
+#else
+extension UIKit.UIViewController : UIKit.UIViewControllerTransitioningDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func presentationController(forPresented presented: UIKit.UIViewController, presenting: UIKit.UIViewController?, source: UIKit.UIViewController) -> UIKit.UIPresentationController?
+}
+#endif
+public enum IHLanguage {
+  case system
+  case en
+  case de
+  case it
+  case es
+  case ru
+  public static func == (a: iHairiumSDK.IHLanguage, b: iHairiumSDK.IHLanguage) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers final public class IHConfiguration : ObjectiveC.NSObject {
+  public static let shared: iHairiumSDK.IHConfiguration
+  final public var customColors: iHairiumSDK.IHCustomColors
+  final public func setupLanguage(language: iHairiumSDK.IHLanguage = .system)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers final public class IHCustomColors {
+  final public var backgroundColor: UIKit.UIColor?
+  final public var backgroundGradientColorStart: UIKit.UIColor?
+  final public var backgroundGradientColorEnd: UIKit.UIColor?
+  final public var buttonTextColor: UIKit.UIColor?
+  final public var buttonBackgroundColor: UIKit.UIColor?
+  final public var textColor: UIKit.UIColor?
+  final public var secondTextColor: UIKit.UIColor?
+  final public var thirdTextColor: UIKit.UIColor?
+  final public var tableSeparatorColor: UIKit.UIColor?
+  final public var tableTextAndSelectionColor: UIKit.UIColor?
+  final public var navBarTextColor: UIKit.UIColor?
+  final public var navBarSliderGradientColorStart: UIKit.UIColor?
+  final public var navBarSliderGradientColorEnd: UIKit.UIColor?
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers final public class IHManager : ObjectiveC.NSObject {
+  public static let shared: iHairiumSDK.IHManager
+  final public func setApiKey(apiKey: Swift.String)
+  final public func startDiagnostic(userId: Swift.String, parentController: UIKit.UIViewController)
+  final public func showDiagnosticResults(userId: Swift.String, parentController: UIKit.UIViewController)
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension iHairiumSDK.IHLanguage : Swift.Equatable {}
+extension iHairiumSDK.IHLanguage : Swift.Hashable {}
