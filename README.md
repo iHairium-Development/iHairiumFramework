@@ -20,7 +20,7 @@ Add a package by selecting **File → Add Packages…** in Xcode’s menu bar.
 Search for the Firebase Apple SDK using the repo's URL: 
 
     https://github.com/iHairium-Development/iHairiumiOSFramework
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738148352536_package.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/spm_img.png)
 
 
 Then, select **Add Package**.
@@ -31,7 +31,7 @@ Then, select **Add Package**.
 Drag and drop the “**iHairiumSDK.xcframework**” into your project.
 Open project settings and select "**Embed & Sign**” option.
 
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738138066297_manual_sdk.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/manual_img.png)
 
 ----------
 ## Import
@@ -43,7 +43,7 @@ Add the usage description of the camera in the app's **Info.plist**.
 
     <key>NSCameraUsageDescription</key>
     <string>Camera description</string>
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738139193855_camera.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/privacy_img.png)
 
 ----------
 # Usage
@@ -138,12 +138,12 @@ By default our SDK supports light and dark theme but you can manually customize 
 
 Use of colors:
 
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738152938681_screen_1.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/colors_1_img.png)
 
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738152968780_screen_2.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/colors_2_img.png)
 
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738152999503_screen_3.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/colors_3_img.png)
 
-![](https://paper-attachments.dropboxusercontent.com/s_2044DDEA638F48A3F4693308D00998265D0694B0E215CF4F28B3C96F7E0B658B_1738153007843_screen_4.png)
+![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/colors_4_img.png)
 
 
