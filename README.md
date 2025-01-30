@@ -35,14 +35,17 @@ Open project settings and select "**Embed & Sign**” option.
 
 ----------
 ## Import
-    import iHairiumSDK
+```swift
+import iHairiumSDK
+```
 ----------
 ## Implementation
 
 Add the usage description of the camera in the app's **Info.plist**.
-
+```xml
     <key>NSCameraUsageDescription</key>
     <string>Camera description</string>
+```
 ![](https://github.com/iHairium-Development/iHairiumiOSFramework/blob/main/Resources/privacy_img.png)
 
 ----------
@@ -50,17 +53,19 @@ Add the usage description of the camera in the app's **Info.plist**.
 ## Setup
 
 You need to set your “api_key” before use:
-
-    iHSDK.shared
-      .setApiKey(apiKey: "your_api_key")
+```swift
+iHSDK.shared
+    .setApiKey(apiKey: "your_api_key")
+```
 ----------
 ## Start Diagnostic
 
 You can start a new diagnostic or continue using the method:
-
-    iHSDK.shared
-      .startDiagnostic(userId: "user_id", 
-                       parentController: "yourViewController")
+```swift
+iHSDK.shared
+    .startDiagnostic(userId: "user_id", 
+                     parentController: "yourViewController")
+```
 
 "user_id" - a unique user ID in your system 
 "yourViewController" - controller in which the SDK will be presented modally
@@ -69,10 +74,11 @@ You can start a new diagnostic or continue using the method:
 ## Show Diagnostic results
 
 You can show all diagnostic results using the method:
-
-    iHSDK.shared
-      .showDiagnosticResults(userId: "user_id",
-                             parentController: "yourViewController")
+```swift
+iHSDK.shared
+    .showDiagnosticResults(userId: "user_id",
+                           parentController: "yourViewController")
+```
 
 "user_id" - a unique user ID in your system 
 "yourViewController" - controller in which the SDK will be presented modally
@@ -91,50 +97,52 @@ Our SDK supports languages:
 
 By default, the language is set depending on the system language (from the list of available ones)
 You can force the required language from the list of available ones:
-
-    // .en, .de, .it, .ru, .es
-    iHSDKConfig.shared
-      .setupLanguage(language: .en) 
+```swift
+ // .en, .de, .it, .ru, .es
+iHSDKConfig.shared
+    .setupLanguage(language: .en)
+```
 ----------
 ## Colors customization
 
 By default our SDK supports light and dark theme but you can manually customize the colors of all elements:
-
-    // background
-    iHSDKConfig.shared
-      .customColors.backgroundColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.backgroundGradientColorStart = "your_color"
-    iHSDKConfig.shared
-      .customColors.backgroundGradientColorEnd = "your_color"
+```swift
+// background
+iHSDKConfig.shared
+    .customColors.backgroundColor = "your_color"
+iHSDKConfig.shared
+    .customColors.backgroundGradientColorStart = "your_color"
+iHSDKConfig.shared
+    .customColors.backgroundGradientColorEnd = "your_color"
             
-    // texts
-    iHSDKConfig.shared
-      .customColors.textColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.secondTextColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.thirdTextColor = "your_color"
+// texts
+iHSDKConfig.shared
+    .customColors.textColor = "your_color"
+iHSDKConfig.shared
+    .customColors.secondTextColor = "your_color"
+iHSDKConfig.shared
+    .customColors.thirdTextColor = "your_color"
             
-    // table
-    iHSDKConfig.shared
-      .customColors.tableSeparatorColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.tableTextAndSelectionColor = "your_color"
+// table
+iHSDKConfig.shared
+    .customColors.tableSeparatorColor = "your_color"
+iHSDKConfig.shared
+    .customColors.tableTextAndSelectionColor = "your_color"
             
-    // buttons
-    iHSDKConfig.shared
-      .customColors.buttonTextColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.buttonBackgroundColor = "your_color"
+// buttons
+iHSDKConfig.shared
+    .customColors.buttonTextColor = "your_color"
+iHSDKConfig.shared
+    .customColors.buttonBackgroundColor = "your_color"
             
-    // navBar
-    iHSDKConfig.shared
-      .customColors.navBarTextColor = "your_color"
-    iHSDKConfig.shared
-      .customColors.navBarSliderGradientColorStart = "your_color"
-    iHSDKConfig.shared
-      .customColors.navBarSliderGradientColorEnd = "your_color"
+// navBar
+iHSDKConfig.shared
+    .customColors.navBarTextColor = "your_color"
+iHSDKConfig.shared
+    .customColors.navBarSliderGradientColorStart = "your_color"
+iHSDKConfig.shared
+    .customColors.navBarSliderGradientColorEnd = "your_color"
+```
 
 Use of colors:
 
